@@ -38,4 +38,3 @@ avl_t *sorted_array_to_avl(int *array, size_t size)
 		return (NULL);
 	return (aux_sort(NULL, array, 0, ((int)(size)) - 1));
 }
-*/
