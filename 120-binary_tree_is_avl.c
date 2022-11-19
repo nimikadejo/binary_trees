@@ -69,4 +69,3 @@ int binary_tree_is_avl(const binary_tree_t *tree)
 	}
 	return (bal_avl(tree, INT_MIN, INT_MAX));
 }
-*/
